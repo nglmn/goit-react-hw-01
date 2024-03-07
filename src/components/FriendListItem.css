@@ -1,0 +1,23 @@
+.card-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+}
+.friend-name{
+    font-size: 34px;
+}
+.friend-status{
+    font-size: 25px;
+}
+.online{
+    color: green;
+}
+.offline{
+    color: red;
+}

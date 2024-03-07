@@ -1,0 +1,30 @@
+.head-transactions{
+    background-color: rgb(66, 66, 66);
+    color: aliceblue;
+}
+
+table{
+    border: 1px solid black;
+    width: 600px;
+    border-collapse: collapse;
+}
+thead > tr > th{
+    width: 100px;
+    border: 1px solid black;
+}
+tbody{
+    border: 1px solid;
+}
+tbody > tr {
+    text-align: center;  
+}
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+.table-line{
+    background-color: white;
+}
+.dark{
+    background-color: rgba(109, 109, 109, 0.259);
+}

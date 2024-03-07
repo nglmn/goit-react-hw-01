@@ -1,0 +1,13 @@
+.friend-list {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.friend-card {
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 100px;
+    height: fit-content;    
+}
